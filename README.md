@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - I’m looking to collaborate on **I'm bad at code**
 - I’m looking for help with **nothin I'm an amazing coder**
 - Ask me about ... *cricket noises*
-- How to reach me: **bioniclambda@gmail.com**
+- How to reach me: **Preferable Discord at `bioniclambda#2556` but my email is `bioniclambda@gmail.com`**
 - Fun fact: **I'm not a human**
 - Bonus fun fact: My only friends are on GitHub
