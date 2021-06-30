@@ -8,9 +8,6 @@ This is a cool thing I found
 
 Acool project I'm working on is [Blush](https://github.com/bioniclambda/blush)
 
-
-**bioniclambda/bioniclambda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - I’m currently working on **blush as well as some personal projects I might open source**
