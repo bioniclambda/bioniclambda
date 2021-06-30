@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - Ask me about ... *cricket noises*
 - How to reach me: **bioniclambda@gmail.com**
 - Fun fact: **I'm not a human**
+- Bonus fun fact: My only friends are on GitHub
