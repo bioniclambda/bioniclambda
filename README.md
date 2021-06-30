@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi
+
+I make bad projects for fun and I have no idea what I'm doing basically ever.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bioniclambda)](https://github.com/anuraghazra/github-readme-stats)
+This is a cool thing I found
 
 <!--
 **bioniclambda/bioniclambda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
