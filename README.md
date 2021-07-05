@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - I’m looking to collaborate on **I'm bad at code**
 - I’m looking for help with **nothin I'm an amazing coder**
 - Ask me about ... *cricket noises*
-- How to reach me: **Preferably Discord at `bioniclambda#2556` but my email is `bioniclambda@gmail.com`**
+- How to reach me: **Preferably Discord at `bioniclambda#2556` but my email is `bioniclambda@protonmail.com`**
 - How to reach me for insane weirdos: **Create a chat request on Reddit. My username is bioniclambda(gee what a shock)**
 - Fun fact: **I'm not a human**
 - Bonus fun fact: **My only friends are on GitHub**
