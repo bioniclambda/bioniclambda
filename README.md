@@ -8,10 +8,10 @@ This is a cool thing I found
 
 Here are some ideas to get you started:
 
-- I’m currently working on **blush as well as some personal projects I might open source**
-- I’m currently learning **C and ASM**
-- I’m looking to collaborate on **I'm bad at code**
-- I’m looking for help with **nothin I'm an amazing coder**
+- I’m currently working on **mush and my website**
+- I’m currently learning **C**
+- I’m looking to collaborate on **I'm bad at programming**
+- I’m looking for help with **nothin I'm an amazing programmer**
 - Ask me about ... *cricket noises*
 - How to reach me: **`bioniclambda@protonmail.com`**
 - Fun fact: **I'm not a human**
