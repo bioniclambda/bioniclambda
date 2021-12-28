@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - How to reach me: **`bioniclambda@protonmail.com`**
 - Fun fact: **I'm not a human**
 - Bonus fun fact: **My only friends are on GitHub**
+
+My [profile](https://avatars.githubusercontent.com/u/80077386?v=4) is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
