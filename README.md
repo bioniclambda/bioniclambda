@@ -8,8 +8,8 @@ This is a cool thing I found
 
 Here are some ideas to get you started:
 
-- I’m currently working on **mush and my website**
-- I’m currently learning **C**
+- I’m currently working on **an operating system**
+- I’m currently learning **C & OSdev**
 - I’m looking to collaborate on **I'm bad at programming**
 - I’m looking for help with **nothin I'm an amazing programmer**
 - Ask me about ... *cricket noises*
